@@ -39,10 +39,10 @@ The goal is to identify **monthly revenue and order volume trends**, highlight *
 
 
 📝 Insights:-
-     - Peak sales occurred in March, May, and October
-     - Some months had high order counts but lower revenue, suggesting lower-value items were popular
-     - Top 5 revenue months help in planning marketing campaigns and inventory
-     - Year-over-year comparisons highlight growth in sales and changing buying behavior
+     1. Peak sales occurred in March, May, and October.
+     2. Some months had high order counts but lower revenue, suggesting lower-value items were popular.
+     3. Top 5 revenue months help in planning marketing campaigns and inventory.
+     4. Year-over-year comparisons highlight growth in sales and changing buying behavior.
 
 ✅ Deliverables:-
 
